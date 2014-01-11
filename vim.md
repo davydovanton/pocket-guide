@@ -3,7 +3,7 @@
 ### Navigate inside files
 
 |  Command  |                     Effect (Move cursor)                          |
-|:----------|:------------------------------------------------------------------|
+|-----------|:------------------------------------------------------------------|
 |    *j*    | Down one real line                                                |
 |    *k*    | Up one real line                                                  |
 |    *h*    | Left one symbol                                                   |
