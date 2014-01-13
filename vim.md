@@ -2,6 +2,21 @@
 
 ### Navigate inside files
 
+|  Command  |                     Effect                        |
+|:---------:|:--------------------------------------------------|
+|    *c*    | Change                                            |
+|    *d*    | Delete                                            |
+|    *y*    | Yank into register                                |
+|    *g~*   | Swap case                                         |
+|    *gu*   | Mace lowercase                                    |
+|    *gU*   | Make uppercase                                    |
+|    *>*    | Shift right                                       |
+|    *<*    | Shift left                                        |
+|    *=*    | Autoindent                                        |
+|    *!*    | Filter {motion} lines through an external program |
+
+### Navigate inside files
+
 |  Command  |                     Effect (Move cursor)                          |
 |:---------:|:------------------------------------------------------------------|
 |    *j*    | Down one real line                                                |
@@ -26,3 +41,4 @@
 | *F{char}* | Backward to the character after the previous occurrence of {char} |
 |    *;*    | Repeat the last character-search command                          |
 |    *,*    | Reverse the last character-search command                         |
+
